@@ -85,11 +85,7 @@ This library is compatible from API 7 (Android 1.5).
 
 Gradle
 ---
-```
-dependencies {
-    compile 'com.github.vanatka.auth0client:Auth0Client:1.0'
-}
-```
+in progress
 
 License
 ---
