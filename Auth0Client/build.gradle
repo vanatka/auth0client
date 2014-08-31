@@ -28,3 +28,5 @@ dependencies {
     compile 'com.squareup.okhttp:okhttp-urlconnection:2.0.0'
     compile 'com.squareup.retrofit:retrofit:1.6.1'
 }
+
+apply from: '../maven_push.gradle'
