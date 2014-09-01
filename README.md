@@ -4,7 +4,7 @@
 Overview
 ---
 
-[**Auth0Client**](https://github.com/vanatka/auth0client), is gradle based Android library, to let developers have basic [Auth0](http://auth0.com) [API](https://docs.auth0.com/auth-api#!#get--authorize_db).
+[**Auth0Client**](https://github.com/vanatka/auth0client), is gradle based Android library, to let developers have basic [Auth0](http://auth0.com) [API](https://docs.auth0.com/auth-api#!#post--oauth-ro).
 
 Features
 ---
