@@ -13,7 +13,7 @@ In version 1.0:
 * [Database & Active Directory / LDAP Authentication](https://docs.auth0.com/auth-api#db-and-ad)
 * Auth0Client - class with Auth0 API's, right now only login
 * Auth0DADLoginTask - AsyncTask for convinient usage in activities, to use it - it's necessary create inhereted class from Auth0DADLoginTask & declare few methods
-* IAuth0Logger - in case if you have your own Logging system, it's possible to redirect all log messages to your subsystem, to do it, it's necessary to add `implements IAuth0Logger` to your logging class (example of usage you can find in reference [`app`](http://github.com/vanatka/auth0client/app))
+* IAuth0Logger - in case if you have your own Logging system, it's possible to redirect all log messages to your subsystem, to do it, it's necessary to add `implements IAuth0Logger` to your logging class (example of usage you can find in reference [`app`](https://github.com/vanatka/auth0client/tree/master/app))
 
 Usage
 ---
@@ -22,7 +22,7 @@ Necessary create project on [Auth0](http://auth0.com) and create application, ob
 Example
 ---
 #####Sample project
-You can find reference project in [`app`](http://github.com/vanatka/auth0client/app) subfolder in the repo.
+You can find reference project in [`app`](https://github.com/vanatka/auth0client/tree/master/app) subfolder in the repo.
 
 
 #####Calling Auth0Client directly:
@@ -81,7 +81,7 @@ public class LoginActivity extends Activity {
 
 Compatibility
 ---
-This library is compatible from API 7 (Android 1.5).
+This library is compatible from API 7 (Android 2.1).
 
 Gradle
 ---
