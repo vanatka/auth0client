@@ -95,6 +95,10 @@ dependencies {
 }
 ```
 
+Developed By
+---
+* Ivan Alaxkin, feel free to contact <ivan.alyakskin@gmail.com> or [@vanatka](http://twitter.com/vanatka)
+
 Contributing
 ---
 
