@@ -1,5 +1,6 @@
 #Auth0Client for Android ( version 1.0 )
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-auth0client-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/905)
 
 Overview
 ---
