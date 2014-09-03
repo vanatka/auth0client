@@ -75,6 +75,7 @@ public class LoginActivity extends Activity {
     @Override
     public void onFailedLogin(Auth0ResultHolder resultHolder, Auth0ResultHolder.RESULT error) {
     }
+  }
 }
 ```
 
