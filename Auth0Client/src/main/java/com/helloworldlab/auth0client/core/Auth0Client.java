@@ -58,7 +58,7 @@ public class Auth0Client extends Auth0Base {
   protected Auth0ResultHolder loginSync( String userName, String password, String scope ) {
     boolean networkException = false;
     boolean somethingWentReallyWrong = false;
-    Auth0ResultHolder resultHolder = null;
+    Auth0ResultHolder resultHolder;
     Auth0LoginResult loginResult = Auth0LoginResult.simulateWrongCredentials("");
     Auth0User auth0User = null;
 

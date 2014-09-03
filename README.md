@@ -8,7 +8,7 @@ Overview
 
 Features
 ---
-In version 1.0:
+In version 1.0.x:
 
 * [Database & Active Directory / LDAP Authentication](https://docs.auth0.com/auth-api#!#post--oauth-ro)
 * Auth0Client - class with Auth0 API's, right now only login
@@ -85,7 +85,24 @@ This library is compatible from API 7 (Android 2.1).
 
 Gradle
 ---
-in progress
+Auth0Client library is now pushed to Maven Central as a AAR, so you just need to add the following dependency to your build.gradle:
+
+```
+dependencies {
+  compile 'com.github.vanatka:auth0client:1.0.2'
+}
+```
+
+Contributing
+---
+
+Please fork this repository and contribute back using
+[pull requests](https://github.com/rockerhieu/emojicon/pulls).
+
+Any contributions, large or small, major features, bug fixes, additional
+language translations, unit/integration tests are welcomed and appreciated
+but will be thoroughly reviewed and discussed.
+
 
 License
 ---
